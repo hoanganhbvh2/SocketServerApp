@@ -2,6 +2,10 @@ import socketio
 import aiohttp
 from aiohttp import web
 import asyncio
+from module import phu
+from module import tuan
+from module import tuananh
+from module import thai
 
 # Khởi tạo Socket.IO server
 sio = socketio.AsyncServer(cors_allowed_origins='*')
