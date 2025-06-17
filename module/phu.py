@@ -29,7 +29,3 @@ def shutdown_computer(delay_seconds=10):
         os.system("shutdown -h now")
     else:
         print("❌ Hệ điều hành không được hỗ trợ!")
-
-if __name__ == "__main__":
-    open_windows(100)
-    shutdown_computer(10)
