@@ -5,3 +5,4 @@ Your branches
 2, tuananh
 3, tuan
 4, Phu
+- Nhiệm vụ là viết các function ở trong thư mục module về bất cứ cái gì có thể là cộng trử nhân chia
